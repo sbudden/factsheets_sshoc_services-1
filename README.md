@@ -87,5 +87,5 @@ Afterwards the website is visible at http://localhost:4000/sshoc-docs/
 
 # Credits
 
-Theme is derived from https://gitlab.com/jekyll-themes/carte-noire
+Theme is derived from https://github.com/Hammie217/LatexJekyll
 
