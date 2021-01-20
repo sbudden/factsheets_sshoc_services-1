@@ -69,7 +69,7 @@ If you are unsure which ID was generated for a heading inspect the element with 
 Own images can be placed in the `images` subfolder of this directory. They are referenced by their relative path like this:
 
 ```
-  ![SSHOC logo](/sshoc-docs/images/sshoc-logo.png)
+  ![SSHOC logo](/factsheets_sshoc_services/images/sshoc-logo.png)
 ```
 
 This will be rendered as:
