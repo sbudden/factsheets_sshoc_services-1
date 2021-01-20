@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Virtual Collection Registry
+date:       2021-01-19 12:00:00
+summary:    How to doc
+categories: docs
+thumbnail: file-text-o
+tags:
+ - markdown
+ - docs
+---
+
 #Virtual Collection Registry
 
 ##Virtual Collection Challenges

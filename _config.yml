@@ -1,0 +1,16 @@
+# Site settings
+title: SSHOC-docs
+description: TODO - description
+baseurl: /sshoc-docs
+title_description: TODO - some more description
+
+# Social usernames/URLs
+gitlab_link: https://gitlab.gwdg.de/buddenbohm/sshoc-docs
+
+# Footer
+footer_left: TODO - left footer
+footer_right: TODO - right footer
+
+# Permalinks
+permalink: /:title.html
+
