@@ -1,11 +1,11 @@
 # Site settings
 title: SSHOC-docs
 description: TODO - description
-baseurl: /sshoc-docs
+baseurl: /factsheets_sshoc_services
 title_description: TODO - some more description
 
 # Social usernames/URLs
-gitlab_link: https://gitlab.gwdg.de/buddenbohm/sshoc-docs
+gitlab_link: https://gitlab.gwdg.de/buddenbohm/factsheets_sshoc_services
 
 # Footer
 footer_left: TODO - left footer
