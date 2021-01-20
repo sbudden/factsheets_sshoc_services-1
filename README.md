@@ -1,6 +1,6 @@
-# factsheets_sshoc_services
+# Factsheets for SSHOC Services
 
-This is the Gitlab repository for the factsheets created within SSHOC WP3.6 for the Virtual Collection Registry and the Language Resource Switchboard.
+This is the Gitlab repository for the factsheets created within SSHOC WP3.6. Initially this is being done for the Virtual Collection Registry and the Language Resource Switchboard.
 
 In case of questions write to sbudden@gwdg.de
 
