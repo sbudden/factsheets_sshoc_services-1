@@ -18,6 +18,9 @@ The SSHOC Virtual Collection Registry offers a researcher-friendly way to organi
 
 _Use scenarios for researchers using the VCR_
 
+  ![SSHOC logo](images/VCs.png)
+
+
 A researcher may:
 
 - access large samples of data with regard to a specific research domain or research question which are investigated by an individual researcher or a research group;
