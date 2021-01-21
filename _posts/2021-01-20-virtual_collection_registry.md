@@ -1,8 +1,10 @@
 ---
 layout:     default
 title:      Virtual Collection Registry
-date:       2021-01-19 12:00
+date:       2021-01-19
 ---
+
+  ![Virtual Collections](images/SSHOC_logo_emblem.png)
 
 **Virtual Collection Registry**
 
@@ -19,7 +21,6 @@ The SSHOC Virtual Collection Registry offers a researcher-friendly way to organi
 _Use scenarios for researchers using the VCR_
 
   ![Virtual Collections](images/virtual_collections_01.png)
-
 
 A researcher may:
 
