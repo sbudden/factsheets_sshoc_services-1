@@ -4,8 +4,6 @@ title:      Virtual Collection Registry
 date:       2021-01-19
 ---
 
-  ![Virtual Collections](images/SSHOC_logo_emblem.png)
-
 **Virtual Collection Registry**
 
 _Virtual Collection Challenges_
@@ -35,6 +33,13 @@ A researcher may:
 - share and work on special selections of resources with colleagues
 
 While it is impossible to create new data-sets/corpora for every occasion and purpose, VCs will allow the researcher to arrange and re-use existing resources and collections for new purposes. VCs are independent of any particular resource repository implementation, hence the aim is to facilitate their creation and use from as many resource repositories as possible. 
+
+
+  ![Virtual Collections](images/virtual_collections_02.png)
+
+
+  ![Virtual Collections](images/SSHOC_logo_emblem.png)
+
 
 _The SSHOC Virtual Collection Registry_
 
