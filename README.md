@@ -49,7 +49,7 @@ A Markdown snippet
 
 will be rendered as HTML Elements
 
-        <h1 id="a headline">A headline</h1>
+        <h1 id="a-headline">A headline</h1>
  
         <h2 id="a-subsection">A subsection</h2>
 
