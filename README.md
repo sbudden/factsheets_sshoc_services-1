@@ -1,8 +1,12 @@
 # Factsheets for SSHOC Services
 
-This is the Gitlab repository for the factsheets created within SSHOC WP3.6. Initially this is being done for the Virtual Collection Registry and the Language Resource Switchboard. The factsheets are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). All factsheets follow the same pattern and describe the service, its possible use case, point to other services in the SSHOC environment and illustrate all of this with examples.
+This is the (provisional) Gitlab repository for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.
 
-In case of questions write to sbudden@gwdg.de
+Initially (2021) factsheets have been created for the Virtual Collection Registry and the Language Resource Switchboard. The factsheets are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and can be edited very easy in the [._posts](https://gitlab.gwdg.de/buddenbohm/factsheets_sshoc_services/-/tree/master/_posts) directory of this repository if you are included in the member list of the repository. Access for editing may be requested through sbudden@gwdg.de 
+
+Although the factsheets are public and readable already in this Gitlab repository, HTML representations have been created for more end user convenience. The URL naming schema follows https://buddenbohm.pages.gwdg.de/factsheets_sshoc_services/NAME_OF_FACTSHEET_IN_THE-POSTS_DIRECTORY.html and may be easily integrated from various websites. An example how such an integration could like: https://textgridrep.org/browse/tbz8.0?lang=en (Tools, Switchboard, info button).
+
+In case of questions or suggestions write to sbudden@gwdg.de
 
 # Documentation
 
