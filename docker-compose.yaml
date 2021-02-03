@@ -10,5 +10,6 @@ services:
       - ./vendor/bundle:/usr/local/bundle
     environment:
       - JEKYLL_ENV=production
-    command: jekyll serve
-
+    command: >
+        bash -c "bundle install
+        && jekyll serve"
