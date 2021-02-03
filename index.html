@@ -1,11 +1,14 @@
 ---
 layout: default
-title: LaTeX Jekyll
-creator: Hamish Sams
-date: April 2020
-abstract: This is my first attempt at Jekyll and is a website designed to look just like a LaTeX document.
+title: Page index
 ---
-<p class="Section">1 &ensp; Introduction</p>
-    <p class="BodyText">This has been my first attempt at Jekyll and with such it is likely not too great. I'd like to design this to work a bit more seamlessly aka without inline styling in the page.
-        I imagine this is possible but not too sure how to do it yet. I also want to add more LaTeX style designs such as designed lists and sub sections etc.
-    </p>
+<ul>
+    {% for post in site.posts %}
+
+        <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+        </li>
+
+    {% endfor %}
+</ul>
