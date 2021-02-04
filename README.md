@@ -57,7 +57,7 @@ which means the ID will be lowercase with hyphens (`-`) instead of spaces. So yo
 
         See [chapter 1](#a-headline) and [chapter 1.1](#a-subsection)
 
-Which allwos creation of a TOC for example. You can also reference headings or subheadings on other pages
+Which allows creation of a TOC for example. You can also reference headings or subheadings on other pages
 
         see the [voyant-example](voyant.html#example)
 
@@ -69,6 +69,10 @@ If you are unsure which ID was generated for a heading inspect the element with 
 ### Images
 
 Own images can be placed in the `images` subfolder of this directory. They are referenced by their relative path like this:
+
+```
+  ![SSHOC logo](images/sshoc-logo.png)
+```
 
 ```
   ![SSHOC logo](images/sshoc-logo.png)
@@ -90,4 +94,3 @@ Afterwards the website is visible at http://localhost:4000/sshoc-docs/
 # Credits
 
 Theme is derived from https://github.com/Hammie217/LatexJekyll
-

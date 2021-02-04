@@ -88,13 +88,14 @@ img{
 }
 
 figcaption{
-    float: block;
-  width: 30%;
+    /*float: block;*/
+  width: 100%;
   text-align: center;
+  /*text-align: center;
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
-  padding: 0.5em;
+  padding: 0.5em;*/
 }

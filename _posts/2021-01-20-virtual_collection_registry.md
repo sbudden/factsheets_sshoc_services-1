@@ -16,8 +16,6 @@ Since metadata is open and can be combined in an autonomous way, any researcher 
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references.
 
-_Use scenarios for researchers using the VCR_
-
 {% figure caption:"Use scenarios for researchers using the VCR" %}
   ![Use scenarios for researchers using the VCR](images/virtual_collections_01.png)
 {% endfigure %}
