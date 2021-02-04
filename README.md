@@ -82,7 +82,10 @@ Own images can be placed in the `images` subfolder of this directory. They are r
 
 This will be rendered as:
 
-![SSHOC logo](images/sshoc-logo.png)
+  {% figure caption:"Use scenarios for researchers using the VCR" %}
+    ![Sample files](images/sshoc-logo.png)
+  {% endfigure %}
+
 
 
 ## Running locally / development
