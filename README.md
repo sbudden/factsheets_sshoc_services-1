@@ -76,9 +76,7 @@ Own images can be placed in the `images` subfolder of this directory. They are r
 
 This will be rendered as:
 
-```
-  ![SSHOC logo](images/sshoc-logo.png)
-```
+![SSHOC logo](images/sshoc-logo.png)
 
 ## Running locally / development
 
