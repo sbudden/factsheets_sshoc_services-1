@@ -48,3 +48,10 @@ Use the VCR to:
 
 
 The VCR is one of the EOSC thematic services and registered at the EOSC portal [link]
+
+References: 
+Virtual Collection Registry homepage [link]
+Short guide on CLARIN Virtual Collections (February 2010) [link]
+VCR in EOSC marketplace [link]
+Virtual Language Observatory [link]
+
