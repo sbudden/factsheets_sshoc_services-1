@@ -47,14 +47,16 @@ Use the VCR to:
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
 
-The VCR is one of the EOSC thematic services and registered at the EOSC portal [link]
+The VCR is one of the EOSC thematic services and registered at the EOSC portal.
 
 References: 
 - Virtual Collection Registry homepage [https://collections.clarin.eu/public?0]
 
-- Short guide on CLARIN Virtual Collections (February 2010) [link]
+- Short guide on CLARIN Virtual Collections (February 2010) [https://www.clarin.eu/sites/default/files/virtual_collections-CLARIN-ShortGuide.pdf]
 
-- VCR in EOSC marketplace [link]
+- VCR in EOSC marketplace [https://marketplace.eosc-portal.eu/services/virtual-collection-registry]
 
-- Virtual Language Observatory [link]
+- Virtual Language Observatory [https://vlo.clarin.eu/search;jsessionid=7DDEB758CEC3F842424454CB80DE1710?0&fq=collection:CLARIN+Virtual+Collection+Registry]
+
+- Switchboard [https://switchboard.clarin.eu/]
 
