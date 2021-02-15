@@ -36,12 +36,19 @@ Use the VCR to:
 
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
-How to provide context for research: 
+Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing 
+![Using VCs](images/Using_VCs1.png)
+![Using VCs](images/Using_VCs2.png)
+![Using VCs](images/Using_VCs3.png)
+![Using VCs](images/Using_VCs4.png)
+
+Creating VCs: How to provide context for research: 
  ![How to create VCs](images/Create_VC1.png)
  ![How to create VCs](images/Create_VC2.png)
 
-How to create VCs via a search in an external data catalogue
+Third party data catalogue integration: How to create VCs via a search in an external data catalogue
  ![How to create VCs via a search in an external data catalogue](images/Creating_collection_via_a_search_in_an_external_data_catalogue1.png)
+ ![How to create VCs via a search in an external data catalogue](images/Creating2.png)
 
 The VCR is one of the EOSC thematic services and registered at the EOSC portal.
 
