@@ -20,8 +20,9 @@ _The Virtual Collection Registry (VCR)_
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references, for example: 
 
-{% figure caption:"Use scenarios for researchers using the VCR" %}
-  ![Use scenarios for researchers using the VCR](images/Create_VC1.png)
+{% figure caption:"How to create VCs" %}
+  ![How to create VCs](images/Create_VC1.png)
+  ![How to create VCs](images/Create_VC2.png)
 {% endfigure %}
 
 - To preserve the context of their research, which can be a collection of various resources and resource types, by the aggregation of resources across catalogues. This facilitates the re-use of the research for the sake of good scientific practice; 
