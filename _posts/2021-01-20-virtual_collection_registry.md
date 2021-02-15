@@ -20,22 +20,11 @@ _The Virtual Collection Registry (VCR)_
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references, for example: 
 
-{% figure caption:"How to create VCs" %}
-  ![How to create VCs](images/Create_VC1.png)
-  ![How to create VCs](images/Create_VC2.png)
-{% endfigure %}
-
 - To preserve the context of their research, which can be a collection of various resources and resource types, by the aggregation of resources across catalogues. This facilitates the re-use of the research for the sake of good scientific practice; 
 
 - To access large samples of data with regard to a specific research domain or research question which are investigated by an individual researcher or a research group;
 
 - To prepare resources for specific workflows, i.e. combine metadata representations into self-defined views and hierarchies (potentially in combination with the Switchboard) and create special collections based on aggregations of selections of different data-catalogues for comparison; 
-
-
-  ![Virtual Collections](images/virtual_collections_02.png)
-
-
-  ![Virtual Collections](images/SSHOC_logo_emblem.png)
 
 The Virtual Collection Registry (VCR), currently operated by CLARIN, the European Research Infrastructure for Language Resources and Technology, enables the creation of DOI-identifiable VCs across the SSH spectrum, and beyond, as the VCR metadata model is not limited to SSH. It provides a way for registering, accessing and discovering VCs by simplifying access for researchers.
 
@@ -47,8 +36,16 @@ Use the VCR to:
 
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
+How to provide context for research: 
+ ![How to create VCs](images/Create_VC1.png)
+ ![How to create VCs](images/Create_VC2.png)
+
+How to create VCs via a search in an external data catalogue
+ ![How to create VCs via a search in an external data catalogue](images/Creating_collection_via_a_search_in_an_external_data_catalogue1.png)
 
 The VCR is one of the EOSC thematic services and registered at the EOSC portal.
+
+![Virtual Collections](images/SSHOC_logo_emblem.png)
 
 References: 
 - Virtual Collection Registry homepage [https://collections.clarin.eu/public?0]
