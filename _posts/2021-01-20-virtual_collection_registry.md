@@ -6,7 +6,7 @@ date:       2021-01-19
 
 **Virtual Collection Registry**
 
-_Virtual Collection_
+_1. Virtual Collections_
 
 Any form of research relies on reproducibility and citability. Usually a scientific publication  will come with a bibliography based on persistent references. The same should apply for the documentation of the research data. This has become a topic of growing importance for researchers, as more and more research data becomes accessible online, gets re-used and cited. Furthermore, in the preparation of research data sets, the need for advanced ways to versionise, group, and share data both within and outside organisations has become paramount.
 
@@ -16,7 +16,7 @@ Since metadata is open and can be combined in an autonomous way, any researcher 
 
 While it is impossible to create new data-sets/corpora for every occasion and purpose, VCs will allow the researcher to arrange and re-use existing resources and collections for new purposes. VCs are independent of any particular resource repository implementation, hence the aim is to facilitate their creation and use from as many resource repositories as possible.
 
-_The Virtual Collection Registry (VCR)_
+_2. The Virtual Collection Registry (VCR)_
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references, for example: 
 
@@ -28,7 +28,7 @@ The SSHOC Virtual Collection Registry offers a researcher-friendly way to organi
 
 The Virtual Collection Registry (VCR), currently operated by CLARIN, the European Research Infrastructure for Language Resources and Technology, enables the creation of DOI-identifiable VCs across the SSH spectrum, and beyond, as the VCR metadata model is not limited to SSH. It provides a way for registering, accessing and discovering VCs by simplifying access for researchers.
 
-The basis for the creation of virtual collections is a joint domain of compatible metadata descriptions. Thus, virtual collections can boost the re-usability of existing resources, thus facilitating empirically sound e-Science in the arts and humanities.
+The basis for the creation of virtual collections is a joint domain of compatible metadata descriptions. Thus, virtual collections can boost the re-usability of existing resources, therefore facilitating empirically sound e-Science in the arts and humanities.
 
 Use the VCR to:
 
@@ -36,11 +36,30 @@ Use the VCR to:
 
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
-Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing 
-![Using VCs](images/Using_VCs1.png)
-![Using VCs](images/Using_VCs2.png)
-![Using VCs](images/Using_VCs3.png)
-![Using VCs](images/Using_VCs4.png)
+Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing:
+
+{% figure caption:"_1. Browsing the VCR_" %}
+![_1. Browsing the VCR_](images/Using_VCs1.png)
+{% endfigure %}
+
+
+
+{% figure caption:"_2. Inspecting the VCR_" %}
+![_2. Inspecting the VCR_](images/Using_VCs2.png)
+{% endfigure %}
+
+
+
+{% figure caption:"_3. Sharing via DOI_" %}
+![_3. Sharing via DOI_](images/Using_VCs3.png)
+{% endfigure %}
+
+
+
+{% figure caption:"_4. Citing via DOI" %}
+![_4. Citing via DOI](images/Using_VCs4.png)
+{% endfigure %}
+
 
 Creating VCs: How to provide context for research: 
  ![How to create VCs](images/Create_VC1.png)
