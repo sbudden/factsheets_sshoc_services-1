@@ -4,6 +4,7 @@
   "description": "This is the (provisional) Gitlab repository for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.",
   "main": "index.js",
   "dependencies": {
+    "jquery": "^3.5.1",
     "lightbox2": "^2.11.3"
   },
   "devDependencies": {},

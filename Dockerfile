@@ -8,7 +8,8 @@ RUN ls
 RUN npm install \
         && ls \
         && cp ./node_modules/lightbox2/dist/js/lightbox.min.js ./assets/js/lightbox.min.js \
+        && cp ./node_modules/jquery/dist/jquery.min.js ./assets/js/jquery.min.js \
         && cp ./node_modules/lightbox2/dist/css/lightbox.min.css ./assets/css/lightbox.min.css \
         && bundle install
 
-ENTRYPOINT jekyll serve
+ENTRYPOINT jekyll server

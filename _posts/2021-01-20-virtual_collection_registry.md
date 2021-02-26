@@ -43,17 +43,14 @@ Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switc
 {% endfigure %}
 
 
-
 {% figure caption:"_2. Inspecting the VCR_" %}
 ![_2. Inspecting the VCR_](images/Using_VCs2.png)
 {% endfigure %}
 
 
-
 {% figure caption:"_3. Sharing via DOI_" %}
 ![_3. Sharing via DOI_](images/Using_VCs3.png)
 {% endfigure %}
-
 
 
 {% figure caption:"_4. Citing via DOI_" %}
