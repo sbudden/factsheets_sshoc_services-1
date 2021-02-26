@@ -10,6 +10,7 @@ RUN npm install \
         && cp ./node_modules/lightbox2/dist/js/lightbox.min.js ./assets/js/lightbox.min.js \
         && cp ./node_modules/jquery/dist/jquery.min.js ./assets/js/jquery.min.js \
         && cp ./node_modules/lightbox2/dist/css/lightbox.min.css ./assets/css/lightbox.min.css \
+        && cp -r ./node_modules/lightbox2/dist/images ./assets \
         && bundle install
 
 ENTRYPOINT jekyll server
