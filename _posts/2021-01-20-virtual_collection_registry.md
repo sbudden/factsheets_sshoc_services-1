@@ -56,17 +56,27 @@ Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switc
 
 
 
-{% figure caption:"_4. Citing via DOI" %}
+{% figure caption:"_4. Citing via DOI_" %}
 ![_4. Citing via DOI](images/Using_VCs4.png)
 {% endfigure %}
 
 
-Creating VCs: How to provide context for research: 
+Creating VCs: How to provide context for research:
+
+1. Go to https://colreg.de.dariah.eu/colreg-ui/collections/, log on and click on _Add Collection_. button.
+
  ![How to create VCs](images/Create_VC1.png)
+
+2. Name it in field <b>Name</b> and do fill in other fields.
+
+3. Press _Save Collection_
+
  ![How to create VCs](images/Create_VC2.png)
 
 Third party data catalogue integration: How to create VCs via a search in an external data catalogue
+
  ![How to create VCs via a search in an external data catalogue](images/Creating_collection_via_a_search_in_an_external_data_catalogue1.png)
+
  ![How to create VCs via a search in an external data catalogue](images/Creating2.png)
 
 The VCR is one of the EOSC thematic services and registered at the EOSC portal.
@@ -74,6 +84,7 @@ The VCR is one of the EOSC thematic services and registered at the EOSC portal.
 ![Virtual Collections](images/SSHOC_logo_emblem.png)
 
 References: 
+
 - Virtual Collection Registry homepage [https://collections.clarin.eu/public?0]
 
 - Short guide on CLARIN Virtual Collections (February 2010) [https://www.clarin.eu/sites/default/files/virtual_collections-CLARIN-ShortGuide.pdf]
