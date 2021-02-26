@@ -1,0 +1,19 @@
+{
+  "name": "factsheets_sshoc_services",
+  "version": "1.0.0",
+  "description": "This is the (provisional) Gitlab repository for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.",
+  "main": "index.js",
+  "dependencies": {
+    "lightbox2": "^2.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.gwdg.de:buddenbohm/factsheets_sshoc_services.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

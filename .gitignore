@@ -11,6 +11,16 @@ _site/
 .Spotlight-V100
 .Trashes
 
+# OS generated dynamic links #
+######################
+Python_programs
+wp3_3
+gitLab
+software/dusanScripts/virtualenvs.png
+SSHOC
+gitLabOnGWDG.txt
+
 # Miscelli #
 ######################
 samplesAndExamplesDuringDevelopment
+defaultBackup.html
