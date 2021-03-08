@@ -3,6 +3,8 @@
 vendor/
 _site/
 .jekyll-cache/
+samplesAndExamplesDuringDevelopment/
+node_modules/
 
 # OS generated files #
 ######################
@@ -13,16 +15,7 @@ _site/
 
 # OS generated dynamic links #
 ######################
-Python_programs
-wp3_3
-gitLab
-software/dusanScripts/virtualenvs.png
-SSHOC
-gitLabOnGWDG.txt
 
 # Miscelli #
 ######################
-samplesAndExamplesDuringDevelopment
 defaultBackup.html
-images/failedDARIAH-login01.pdf
-images/failedDARIAH-login02.pdf
