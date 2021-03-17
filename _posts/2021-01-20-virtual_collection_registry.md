@@ -6,7 +6,7 @@ date:       2021-01-19
 
 **Virtual Collection Registry**
 
-_1. Virtual Collections_
+<h4>1. Virtual Collections</h4>
 
 Any form of research relies on reproducibility and citability. Usually a scientific publication  will come with a bibliography based on persistent references. The same should apply for the documentation of the research data. This has become a topic of growing importance for researchers, as more and more research data becomes accessible online, gets re-used and cited. Furthermore, in the preparation of research data sets, the need for advanced ways to versionise, group, and share data both within and outside organisations has become paramount.
 
@@ -16,7 +16,7 @@ Since metadata is open and can be combined in an autonomous way, any researcher 
 
 While it is impossible to create new data-sets/corpora for every occasion and purpose, VCs will allow the researcher to arrange and re-use existing resources and collections for new purposes. VCs are independent of any particular resource repository implementation, hence the aim is to facilitate their creation and use from as many resource repositories as possible.
 
-_2. The Virtual Collection Registry (VCR)_
+<h4>2. The Virtual Collection Registry (VCR)</h4>
 
 The SSHOC Virtual Collection Registry offers a researcher-friendly way to organise research data references, for example: 
 
@@ -30,51 +30,59 @@ The Virtual Collection Registry (VCR), currently operated by CLARIN, the Europea
 
 The basis for the creation of virtual collections is a joint domain of compatible metadata descriptions. Thus, virtual collections can boost the re-usability of existing resources, therefore facilitating empirically sound e-Science in the arts and humanities.
 
-Use the VCR to:
+<h4>3. Use the VCR to:</h4>
 
 - Populate a personal workspace, using the VCR’s memory of previous data selections. 
 
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
-Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing:
+<h4>4. Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing:</h4>
 
 {% figure caption:"_1. Browsing the VCR_" %}
-![_1. Browsing the VCR_](images/Using_VCs1.png)
+![_1. Browsing the VCR_](images/Using_VCs01.png)
 {% endfigure %}
 
-
-{% figure caption:"_2. Inspecting the VCR_" %}
-![_2. Inspecting the VCR_](images/Using_VCs2.png)
+{% figure caption:"_2a. Inspecting the VCR_" %}
+![_2a. Inspecting the VCR_](images/Using_VCs02.png)
 {% endfigure %}
 
-
-{% figure caption:"_3. Sharing via DOI_" %}
-![_3. Sharing via DOI_](images/Using_VCs3.png)
+{% figure caption:"_2b. Inspecting the VCR_" %}
+![_2b. Inspecting the VCR_](images/Using_VCs03.png)
 {% endfigure %}
 
-
-{% figure caption:"_4. Citing via DOI_" %}
-![_4. Citing via DOI](images/Using_VCs4.png)
+{% figure caption:"_4. Sharing via DOI_" %}
+![_4. Sharing via DOI_](images/Using_VCs04.png)
 {% endfigure %}
 
+<h4>5. Creating VCs: How to provide context for research:</h4>
 
-Creating VCs: How to provide context for research:
+Go to <a href="https://collections.clarin.eu/public?0" target="_blank">https://collections.clarin.eu/public?0</a>, log on and click on <i>Create</i> button.
 
-1. Go to https://colreg.de.dariah.eu/colreg-ui/collections/, log on and click on _Add Collection_. button.
+![How to create VCs](images/Create_VC01.png)
 
- ![How to create VCs](images/Create_VC1.png)
+Name it in field <b>Name</b> and do fill in other fields, in particular <i>Authors</i>
 
-2. Name it in field <b>Name</b> and do fill in other fields.
+![How to create VCs](images/Create_VC02.png)
 
-3. Press _Save Collection_
+and <i>References</i>.
 
- ![How to create VCs](images/Create_VC2.png)
+![How to create VCs](images/Create_VC03.png)
 
-Third party data catalogue integration: How to create VCs via a search in an external data catalogue
+Press <i>Save Collection</i>:
 
- ![How to create VCs via a search in an external data catalogue](images/Creating_collection_via_a_search_in_an_external_data_catalogue1.png)
+![How to create VCs](images/Create_VC04.png)
 
- ![How to create VCs via a search in an external data catalogue](images/Creating2.png)
+<h4>6. Third party data catalogue integration: How to create VCs via a search in an external data catalogue</h4>
+
+![How to create VCs via a search in an external data catalogue](images/Create_VC05.png)
+
+Save results from <i>CLARIN Virtual Language Observatory</i> (VLO)
+
+![How to create VCs via a search in an external data catalogue](images/Create_VC06.png)
+
+Submit search results to <i>Virtual Collection Registry</i>
+
+![How to create VCs via a search in an external data catalogue](images/Create_VC07.png)
 
 The VCR is one of the EOSC thematic services and registered at the EOSC portal.
 
@@ -91,4 +99,3 @@ References:
 - Virtual Language Observatory [https://vlo.clarin.eu/search;jsessionid=7DDEB758CEC3F842424454CB80DE1710?0&fq=collection:CLARIN+Virtual+Collection+Registry]
 
 - Switchboard [https://switchboard.clarin.eu/]
-

@@ -86,7 +86,7 @@ This site could be viewed locally with docker-compose
 
         docker-compose up
 
-Afterwards the website is visible at http://localhost:4000/sshoc-docs/
+Afterwards the website is visible at http://0.0.0.0:4000/factsheets_sshoc_services/
 
 # Credits
 
