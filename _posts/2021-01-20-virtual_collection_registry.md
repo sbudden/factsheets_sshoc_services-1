@@ -90,7 +90,7 @@ The VCR is one of the EOSC thematic services and registered at the EOSC portal.
 
 References: 
 
-- Virtual Collection Registry homepage [https://collections.clarin.eu/public?0]
+- Virtual Collection Registry website [https://collections.clarin.eu/public?0]
 
 - Short guide on CLARIN Virtual Collections (February 2010) [https://www.clarin.eu/sites/default/files/virtual_collections-CLARIN-ShortGuide.pdf]
 

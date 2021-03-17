@@ -1,18 +1,17 @@
 # Factsheets for SSHOC Services
 
-This is the (provisional) Gitlab repository for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.
+This is the (provisional) <a href="https://gitlab.gwdg.de/fe/factsheets_sshoc_services" target="_blank">Gitlab repository</a> for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.
 
 Initially (2021) factsheets have been created for the Virtual Collection Registry and the Language Resource Switchboard. The factsheets are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and can be edited very easy in the [._posts](https://gitlab.gwdg.de/fe/factsheets_sshoc_services/-/tree/master/_posts) directory of this repository if you are a member of the repository. Access for editing may be requested through sbudden@gwdg.de 
 
-https://gitlab.gwdg.de/fe/factsheets_sshoc_services
 
-Although the factsheets are public and readable already in this Gitlab repository, HTML representations have been created for more end user convenience. The URL naming schema follows https://fe.pages.gwdg.de/factsheets_sshoc_services/NAME_OF_FACTSHEET_IN_THE-POSTS_DIRECTORY.html and may be easily integrated from various websites. An example how such an integration could look like, offers the [TextGrid repository](https://textgridrep.org/browse/tbz8.0?lang=en) (Tools, Switchboard, Info button). In the back a service is running (<i>Jekyll 4.2.0</i>) creating a new HTML representation as soon as any Markdown file has been edited or added. This service needs a server and for that reason this repository cannot be simply stored in a GitHub repository making it easily accessible for everyone from everywhere but it makes it necessary running it in a GitLab offering opportunity of a freely configurable server.
+Although the factsheets are public and readable already in this Gitlab repository, HTML representations have been created for more end user convenience. The URL naming schema follows https://fe.pages.gwdg.de/factsheets\_sshoc\_services/NAME\_OF\_FACTSHEET\_IN\_THE-POSTS\_DIRECTORY.html and may be easily integrated from various websites. An example how such an integration could look like, offers the [TextGrid repository](https://textgridrep.org/browse/tbz8.0?lang=en) (Tools, Switchboard, Info button). In the back a service is running (<i>Jekyll 4.2.0</i>) creating a new HTML representation as soon as any Markdown file has been edited or added. This service needs a server and for that reason this repository cannot be simply stored in a GitHub repository making it easily accessible for everyone from everywhere but it makes it necessary running it in a GitLab offering opportunity of a freely configurable server.
 
 In case of questions or suggestions write to sbudden@gwdg.de
 
 # Documentation
 
-This folder contains all static pages belonging to the factsheets_sshoc_services. They are all written in [Markdown](https://daringfireball.net/projects/markdown/).
+This folder contains all static pages belonging to the factsheets\_sshoc\_services. They are all written in [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## Naming schema
 
@@ -22,7 +21,7 @@ The files in the [_posts](_posts) directory follow the naming scheme
 
 Where `pagename` is the identifier used for the page. The `.md` extension identifies the file as Markdown file.
 
-The markdown files are later rendered as html within the SSHOC static docs site <https://buddenbohm.pages.gwdg.de/factsheets_sshoc_services> identified as `pagename.html`.
+The markdown files are later rendered as html within the SSHOC static docs site <https://fe.pages.gwdg.de/factsheets_sshoc_services> identified as `pagename.html`.
 
 ## Index
 
