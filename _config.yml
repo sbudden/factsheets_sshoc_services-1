@@ -1,5 +1,4 @@
 # Permalinks
 permalink: /:title.html
-baseurl: /factsheets_sshoc_services
 plugins:
   - jekyll-figure
