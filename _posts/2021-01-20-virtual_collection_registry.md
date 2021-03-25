@@ -37,6 +37,23 @@ The basis for the creation of virtual collections is a joint domain of compatibl
 - Share data selections with fellow researchers or broader/public audiences. An important feature that has been enabled by SSHOC, next to many usability improvements, is the creation of DOIs for virtual collections.
 
 <h4>4. Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing:</h4>
+
+{% figure caption:"_1. Browsing the VCR_" %}
+![_1. Browsing the VCR_](images/Using_VCs01.png)
+{% endfigure %}
+
+{% figure caption:"_2a. Inspecting the VCR_" %}
+![_2a. Inspecting the VCR_](images/Using_VCs02.png)
+{% endfigure %}
+
+{% figure caption:"_2b. Inspecting the VCR_" %}
+![_2b. Inspecting the VCR_](images/Using_VCs03.png)
+{% endfigure %}
+
+{% figure caption:"_4. Sharing via DOI_" %}
+![_4. Sharing via DOI_](images/Using_VCs04.png)
+{% endfigure %}
+
 <h4>5. Creating VCs: How to provide context for research:</h4>
 
 **unsupported jekyll-figure used here**
