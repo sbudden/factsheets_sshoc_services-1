@@ -1,4 +1,2 @@
 # Permalinks
 permalink: /:title.html
-plugins:
-  - jekyll-figure
