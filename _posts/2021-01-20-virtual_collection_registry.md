@@ -56,8 +56,6 @@ The basis for the creation of virtual collections is a joint domain of compatibl
 
 <h4>5. Creating VCs: How to provide context for research:</h4>
 
-**unsupported jekyll-figure used here**
-
 Go to <a href="https://collections.clarin.eu/public?0" target="_blank">https://collections.clarin.eu/public?0</a>, log on and click on <i>Create</i> button.
 
 ![How to create VCs](images/Create_VC01.png)
