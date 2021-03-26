@@ -38,6 +38,10 @@ The basis for the creation of virtual collections is a joint domain of compatibl
 
 <h4>4. Using VCs: Browsing and inspecting, sharing and citing via DOI, sending to switchboard for processing:</h4>
 
+![_1. Browsing the VCR_](images/Using_VCs01.png)
+
+_1. Browsing the VCR_
+
 {% figure caption:"_1. Browsing the VCR_" %}
 ![_1. Browsing the VCR_](images/Using_VCs01.png)
 {% endfigure %}
@@ -55,6 +59,8 @@ The basis for the creation of virtual collections is a joint domain of compatibl
 {% endfigure %}
 
 <h4>5. Creating VCs: How to provide context for research:</h4>
+
+**unsupported jekyll-figure used here**
 
 Go to <a href="https://collections.clarin.eu/public?0" target="_blank">https://collections.clarin.eu/public?0</a>, log on and click on <i>Create</i> button.
 
