@@ -50,9 +50,9 @@ _2a. Inspecting the VCR_
 
 _2b. Inspecting the VCR_
 
-![_4. Sharing via DOI_](images/Using_VCs04.png)
+![_3. Sharing via DOI_](images/Using_VCs04.png)
 
-_4. Sharing via DOI_
+_3. Sharing via DOI_
 
 <h4>5. Creating VCs: How to provide context for research:</h4>
 
