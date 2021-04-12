@@ -1,7 +1,7 @@
 ---
 layout:     default
 title:      Switchboard
-date:       2021-01-19 11:55
+date:       2021-01-19T11:55:00Z
 ---
 
 # The SSHOC Language Resource Switchboard

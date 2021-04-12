@@ -1,7 +1,7 @@
 ---
 layout:     default
 title:      Test title
-date:       2021-01-19 11:55:00
+date:       2021-01-19T11:55:00Z:00
 ---
 
 # Switchboard - JUST A TEST
