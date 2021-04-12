@@ -1,7 +1,6 @@
 ---
 layout:     default
 title:      Virtual Collection Registry
-date:       2021-01-19
 ---
 
 **Virtual Collection Registry**
