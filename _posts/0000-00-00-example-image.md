@@ -1,7 +1,7 @@
 ---
 layout:     default
 title:      Example Markdown document with image
-date:       2021-01-19 16:16:00
+date:       2021-04-12T10:20:00Z
 ---
 
 ![SSHOC logo](images/sshoc-logo.png)
