@@ -11,7 +11,7 @@ In case of questions or suggestions write to sbudden@gwdg.de
 
 # Documentation
 
-This folder contains all static pages belonging to the <a href="https://subugoe.github.io/factsheets_sshoc_services/virtual_collection_registry.html" target="_blank">subugoe/factsheets_sshoc_services</a>. They are all written in [Markdown](https://daringfireball.net/projects/markdown/).
+This folder contains all static pages belonging to the <a href="https://subugoe.github.io/factsheets_sshoc_services" target="_blank">subugoe/factsheets_sshoc_services</a>. They are all written in [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## Naming schema
 
@@ -21,7 +21,7 @@ The files in the [_posts](https://github.com/subugoe/factsheets_sshoc_services/t
 
 Where `pagename` is the identifier used for the page. The `.md` extension identifies the file as Markdown file.
 
-The markdown files are later rendered as html within the SSHOC static docs site <a href="https://subugoe.github.io/factsheets_sshoc_services/virtual_collection_registry.html" target="_blank">subugoe/factsheets_sshoc_services</a> identified as `pagename.html`.
+The markdown files are later rendered as html within the <a href="https://subugoe.github.io/factsheets_sshoc_services" target="_blank">SSHOC static docs site</a> identified as `pagename.html`.
 
 ## Index
 
