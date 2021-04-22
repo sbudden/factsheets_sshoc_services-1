@@ -9,7 +9,9 @@
 <b>Mind:</b> For some tools it can be helpful presenting solely plain text files instead of data already anyhow tagged.</p>
 <p>Start by going to <a href="https://switchboard.clarin.eu" target="_blank">
 <i>Language Resource Switchboard</i></a>[languageResourceSwitchboard.png] and take one of two following options:</p>
-<img src="images/languageResourceSwitchboard.png" alt="Italian Trulli">
+![1. Browsing the VCR](images/01toolInventory.png)
+_1. Browsing the VCR_
+
 <i>1. Browsing the VCR_</i>
 <ol>
 <li>Either a researcher is already familiar with tools offered and know what is best to use answering research question or</li>
