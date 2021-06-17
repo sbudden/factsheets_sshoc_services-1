@@ -8,7 +8,7 @@
 <p>
 <b>Mind:</b> For some tools it can be helpful presenting solely plain text files instead of data already anyhow tagged.</p>
 <p>Start by going to <a href="https://switchboard.clarin.eu" target="_blank">
-<i>Language Resource Switchboard</i></a> and take one of <a href="images/00switchboardHomepage.png" target="_blank">two following options:</a></p>
+<i>Language Resource Switchboard</i></a> and take one of <a href="images/00switchboardHomepage.png" target="_blank"> <img scr="images/00switchboardHomepage.png"> two following options:</a></p>
 <ol>
 <li>Either a researcher is <a href="images/01toolInventory.png" target="_blank">already familiar with tools</a> offered and know what is best to use answering research question or</li>
 <li>he or she wishes <a href="images/02uploadFilesOrText.png" target="_blank">a pre-selection of tools</a> best fitting.</li>
