@@ -1,4 +1,4 @@
-# Factsheets for SSHOC Services
+# Factsheets
 
 This is the (provisional) <a href="https://github.com/subugoe/factsheets_sshoc_services" target="_blank">GitHub repository</a> for the factsheets created within SSHOC WP3.6. It is public and consists of the Markdown files (for editing) and the HTML representations (for end users and integration) of the factsheets.
 
