@@ -20,7 +20,7 @@ files instead of data already anyhow tagged.
 
 Start by going to [*Language Resource
 Switchboard*](https://switchboard.clarin.eu) and take one of [two
-following options:](images/00switchboardHomepage.png)
+following options:](https://github.com/subugoe/factsheets_sshoc_services/blob/master/_posts/useCaseOfLanguageResourceSwitchboard.md)
 
 1.  Either a researcher is [already familiar with
     tools](images/01toolInventory.png) offered and know what is best to
