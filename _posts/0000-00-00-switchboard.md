@@ -4,7 +4,7 @@ title:      Switchboard
 date:       2021-04-12T10:20:00Z
 ---
 
-# The SSHOC Language Resource Switchboard
+# The Language Resource Switchboard
 
 The following text is used with kind permission by the [TextGrid Repository](https://gitlab.gwdg.de/dariah-de/textgridrep-portal/-/blob/develop/docs/switchboard.en.md). For this reason the following tutorial is written from the perspective of an user visiting the TextGrid Repository and initialising the Switchboard from there.
 
