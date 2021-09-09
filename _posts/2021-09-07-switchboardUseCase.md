@@ -8,7 +8,7 @@ date:       2021-09-07T16:20:00Z
 <h2>Two ways two start</h2>
 <p><b>Mind:</b> For some tools it can be helpful presenting solely plain text files instead of data already anyhow tagged.</p>
 <p>Start by going to <a href="https://switchboard.clarin.eu" target="_blank">Language Resource Switchboard</a> and take one of two following options:</p>
-<img src="https://subugoe.github.io/factsheets_sshoc_services/images/00switchboardHomepage.png" alt="blah" width="75%" height="auto"/>
+<img src="https://subugoe.github.io/factsheets_sshoc_services/images/00switchboardHomepage.png" alt="Image not found" width="75%" height="auto"/>
 <h3>1. One of two following options</h3>
 <ol>
 <li>Either a researcher is already familiar with tools offered and know what is best to use answering research question or</li>
