@@ -17,7 +17,7 @@ date:       2021-09-07T16:20:00Z
 <p>If <b>1.</b> researcher can select tools by him- or herself clicking on Tool inventory choosing wished and afterwards finds a three ways function:</p>
 <ol>
 <li>uploading a file,</li>
-<li>submitting an ULR or</li>
+<li>submitting an URL or</li>
 <li>submitting text.</li>
 </ol>
 <p>If <b>2.</b> he or she may simple type in <a href="https://switchboard.clarin.eu/input" target="blank">https://switchboard.clarin.eu/input</a> in address bar of a browser and is facing three ways function, mentioned above.</p>
